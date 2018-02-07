@@ -1,0 +1,20 @@
+c:\users\nikola\documents\visual studio 2015\Projects\StoServer\StoServer\bin\Debug\StoServer.exe.config
+c:\users\nikola\documents\visual studio 2015\Projects\StoServer\StoServer\obj\Debug\StoServer.csprojResolveAssemblyReference.cache
+c:\users\nikola\documents\visual studio 2015\Projects\StoServer\StoServer\bin\Debug\StoServer.exe
+c:\users\nikola\documents\visual studio 2015\Projects\StoServer\StoServer\bin\Debug\StoServer.pdb
+c:\users\nikola\documents\visual studio 2015\Projects\StoServer\StoServer\bin\Debug\FluentNHibernate.dll
+c:\users\nikola\documents\visual studio 2015\Projects\StoServer\StoServer\bin\Debug\Newtonsoft.Json.dll
+c:\users\nikola\documents\visual studio 2015\Projects\StoServer\StoServer\bin\Debug\Oracle.DataAccess.dll
+c:\users\nikola\documents\visual studio 2015\Projects\StoServer\StoServer\bin\Debug\Oracle.ManagedDataAccess.dll
+c:\users\nikola\documents\visual studio 2015\Projects\StoServer\StoServer\bin\Debug\FluentNHibernate.pdb
+c:\users\nikola\documents\visual studio 2015\Projects\StoServer\StoServer\bin\Debug\FluentNHibernate.xml
+c:\users\nikola\documents\visual studio 2015\Projects\StoServer\StoServer\bin\Debug\Newtonsoft.Json.xml
+c:\users\nikola\documents\visual studio 2015\Projects\StoServer\StoServer\obj\Debug\StoServer.exe
+c:\users\nikola\documents\visual studio 2015\Projects\StoServer\StoServer\obj\Debug\StoServer.pdb
+c:\users\nikola\documents\visual studio 2015\Projects\StoServer\StoServer\bin\Debug\RabbitMQ.Client.dll
+c:\users\nikola\documents\visual studio 2015\Projects\StoServer\StoServer\bin\Debug\RabbitMQ.Client.xml
+c:\users\nikola\documents\visual studio 2015\Projects\StoServer\StoServer\bin\Debug\NHibernate.dll
+c:\users\nikola\documents\visual studio 2015\Projects\StoServer\StoServer\bin\Debug\NHibernate.xml
+C:\Users\Jana\Desktop\vestacka\bozic\bozic\StoServer\StoServer\bin\Debug\StoServer.exe.config
+C:\Users\Jana\Desktop\vestacka\bozic\bozic\StoServer\StoServer\obj\Debug\StoServer.exe
+C:\Users\Jana\Desktop\vestacka\bozic\bozic\StoServer\StoServer\obj\Debug\StoServer.pdb
