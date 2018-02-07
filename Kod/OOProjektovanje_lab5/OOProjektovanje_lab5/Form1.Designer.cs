@@ -150,6 +150,7 @@
             this.btnZavrsi.TabIndex = 11;
             this.btnZavrsi.Text = "Zavrsi";
             this.btnZavrsi.UseVisualStyleBackColor = true;
+            this.btnZavrsi.Visible = false;
             this.btnZavrsi.Click += new System.EventHandler(this.btnZavrsi_Click);
             // 
             // btnTipKarti
@@ -160,6 +161,7 @@
             this.btnTipKarti.TabIndex = 12;
             this.btnTipKarti.Text = "button1";
             this.btnTipKarti.UseVisualStyleBackColor = true;
+            this.btnTipKarti.Visible = false;
             this.btnTipKarti.Click += new System.EventHandler(this.btnTipKarti_Click);
             // 
             // comboBox1
@@ -186,6 +188,7 @@
             this.button1.TabIndex = 14;
             this.button1.Text = "Nove Karte";
             this.button1.UseVisualStyleBackColor = true;
+            this.button1.Visible = false;
             this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
             // btnCheck

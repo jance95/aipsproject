@@ -449,5 +449,10 @@ namespace OOProjektovanje_lab5.Controller
                                      body: body);
             }
         }
+
+        public void snimiIgraca(Igrac i)
+        {
+            throw new NotImplementedException();
+        }
     }
 }

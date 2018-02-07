@@ -37,6 +37,7 @@ namespace OOProjektovanje_lab5.Controller
         void call();
         void fold();
         void rise(string ulog);
+        void snimiIgraca(Igrac i);
         //IList<Sto> izlistajStolove();
     }
 }

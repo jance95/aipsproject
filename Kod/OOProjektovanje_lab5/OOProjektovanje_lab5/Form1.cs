@@ -268,6 +268,7 @@ namespace OOProjektovanje_lab5
                         btnRezim.Location = new Point(12, 22);
                         btnRezim.Size = new Size(81, 40);
                         btnRezim.Text = "Igraj klasican poker";
+                        btnRezim.Hide();
                         pictureBox1.Location = new Point(206, 145);
                         pictureBox1.Visible = false;
                         pictureBox2.Location = new Point(368, 145);
@@ -585,12 +586,14 @@ namespace OOProjektovanje_lab5
         {
             exit = true;
             controller.takeout();
+            controller.snimiIgraca(controller.getIgrac());
         }
 
         private void btnCheck_Click(object sender, EventArgs e)
         {
             controller.check();
             disableButtons();
+            controller.getIgrac().novac = Int32.Parse(lblPoeni.Text);
         }
 
         private void btnCall_Click(object sender, EventArgs e)
@@ -608,12 +611,14 @@ namespace OOProjektovanje_lab5
             }
             controller.call();
             disableButtons();
+            controller.getIgrac().novac = Int32.Parse(lblPoeni.Text);
         }
 
         private void btnFold_Click(object sender, EventArgs e)
         {
             controller.fold();
             disableButtons();
+            controller.getIgrac().novac = Int32.Parse(lblPoeni.Text);
         }
 
         private void btnRise_Click(object sender, EventArgs e)
@@ -623,6 +628,7 @@ namespace OOProjektovanje_lab5
             controller.rise(ulog.ToString());
             disableButtons();
             lblPoeni.Text = (Int32.Parse(lblPoeni.Text) - pom).ToString();
+            controller.getIgrac().novac = Int32.Parse(lblPoeni.Text);
         }
 
         private void disableButtons()
