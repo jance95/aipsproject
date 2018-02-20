@@ -22,6 +22,7 @@ namespace OOProjektovanje_lab5
         public logIn()
         {
             InitializeComponent();
+            tbpass.PasswordChar = '*';
         }
 
         public void AddListener(IController controller)

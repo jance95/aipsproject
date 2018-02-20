@@ -44,6 +44,7 @@
             // 
             // tbpass
             // 
+            this.tbpass.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.tbpass.Location = new System.Drawing.Point(74, 101);
             this.tbpass.Name = "tbpass";
             this.tbpass.Size = new System.Drawing.Size(135, 20);
