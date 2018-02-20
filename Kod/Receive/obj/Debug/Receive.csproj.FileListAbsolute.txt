@@ -1,0 +1,35 @@
+c:\users\jana\documents\visual studio 2015\Projects\Receive\Receive\bin\Debug\Receive.exe.config
+c:\users\jana\documents\visual studio 2015\Projects\Receive\Receive\bin\Debug\Receive.exe
+c:\users\jana\documents\visual studio 2015\Projects\Receive\Receive\bin\Debug\Receive.pdb
+c:\users\jana\documents\visual studio 2015\Projects\Receive\Receive\bin\Debug\RabbitMQ.Client.dll
+c:\users\jana\documents\visual studio 2015\Projects\Receive\Receive\bin\Debug\RabbitMQ.Client.xml
+c:\users\jana\documents\visual studio 2015\Projects\Receive\Receive\obj\Debug\Receive.csprojResolveAssemblyReference.cache
+c:\users\jana\documents\visual studio 2015\Projects\Receive\Receive\obj\Debug\Receive.exe
+c:\users\jana\documents\visual studio 2015\Projects\Receive\Receive\obj\Debug\Receive.pdb
+C:\Users\Jana\Documents\Visual Studio 2015\Projects\Receive\Receive\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Jana\Documents\Visual Studio 2015\Projects\Receive\Receive\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Jana\Documents\Visual Studio 2015\Projects\Receive\Receive\bin\Debug\FluentNHibernate.dll
+C:\Users\Jana\Documents\Visual Studio 2015\Projects\Receive\Receive\bin\Debug\NHibernate.dll
+C:\Users\Jana\Documents\Visual Studio 2015\Projects\Receive\Receive\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Jana\Documents\Visual Studio 2015\Projects\Receive\Receive\bin\Debug\Iesi.Collections.dll
+C:\Users\Jana\Documents\Visual Studio 2015\Projects\Receive\Receive\bin\Debug\FluentNHibernate.pdb
+C:\Users\Jana\Documents\Visual Studio 2015\Projects\Receive\Receive\bin\Debug\FluentNHibernate.xml
+C:\Users\Jana\Documents\Visual Studio 2015\Projects\Receive\Receive\bin\Debug\NHibernate.xml
+C:\Users\Jana\Documents\Visual Studio 2015\Projects\Receive\Receive\bin\Debug\Iesi.Collections.xml
+C:\Users\Nikola\Desktop\bozic\Receive\Receive\bin\Debug\Receive.exe.config
+C:\Users\Nikola\Desktop\bozic\Receive\Receive\obj\Debug\Receive.exe
+C:\Users\Nikola\Desktop\bozic\Receive\Receive\obj\Debug\Receive.pdb
+C:\Users\Nikola\Desktop\bozic\Receive\Receive\bin\Debug\Receive.exe
+C:\Users\Nikola\Desktop\bozic\Receive\Receive\bin\Debug\Receive.pdb
+C:\Users\Nikola\Desktop\bozic\Receive\Receive\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Nikola\Desktop\bozic\Receive\Receive\bin\Debug\Iesi.Collections.dll
+C:\Users\Nikola\Desktop\bozic\Receive\Receive\bin\Debug\FluentNHibernate.pdb
+C:\Users\Nikola\Desktop\bozic\Receive\Receive\bin\Debug\FluentNHibernate.xml
+C:\Users\Nikola\Desktop\bozic\Receive\Receive\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Nikola\Desktop\bozic\Receive\Receive\bin\Debug\NHibernate.xml
+C:\Users\Nikola\Desktop\bozic\Receive\Receive\bin\Debug\RabbitMQ.Client.xml
+C:\Users\Nikola\Desktop\bozic\Receive\Receive\bin\Debug\Iesi.Collections.xml
+C:\Users\Nikola\Desktop\bozic\Receive\Receive\obj\Debug\Receive.csprojResolveAssemblyReference.cache
+C:\Users\Nikola\Desktop\workspace\bozic\Receive\Receive\bin\Debug\Receive.exe.config
+C:\Users\Nikola\Desktop\workspace\bozic\Receive\Receive\obj\Debug\Receive.exe
+C:\Users\Nikola\Desktop\workspace\bozic\Receive\Receive\obj\Debug\Receive.pdb
