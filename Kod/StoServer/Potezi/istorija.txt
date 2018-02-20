@@ -1,0 +1,345 @@
+
+Igrac jana se pridruzio tabli.
+Igrac jjana se pridruzio tabli.%igracNaPotezu:jana:%karte.123.30.40,jana.82.133,jjana.92.143
+@Igrac nikolino se pridruzio tabli.
+%Igrac :jana:check:sledeci:jjana
+Igrac :jjana:sledeci:jana:rise:50
+*Igrac :jana:call:sledeci:jjana
+%Igrac :jjana:check:sledeci:jana
+*%Igrac :jana:check:sledeci:jjana
+%Igrac :jjana:check:sledeci:jana
+Igrac :jana:sledeci:jjana:rise:200
+*Igrac :jjana:fold:sledeci:jana
+Igrac:jana:je dobio ovu ruku:karte.90.132.93,jana.20.41,nikolino.102.92,jjana.10.12:%Igrac :jana:check:sledeci:jana
+Igrac :jana:fold:sledeci:jjana
+*%Igrac :jjana:check:sledeci:nikolino
+Igrac jjana je napustio igru.%igracNaPotezu:jana
+Igrac jana je napustio igru.Igrac nikolino je dobio ruku.
+Igrac nikolino je napustio igru.
+Igrac jana se pridruzio tabli.
+Igrac jjana se pridruzio tabli.%igracNaPotezu:jana:%karte.51.30.41,jana.40.82,jjana.20.133
+%Igrac :jana:check:sledeci:jjana
+*%Igrac :jjana:check:sledeci:jana
+%Igrac :jana:check:sledeci:jjana
+*%Igrac :jjana:check:sledeci:jana
+%Igrac :jana:check:sledeci:jjana
+*%Igrac :jjana:check:sledeci:jana
+%Igrac :jana:check:sledeci:jjana
+Igrac:jana:je dobio ovu ruku:karte.12.30.20,jana.133.102,jjana.123.10:%Igrac :jjana:check:sledeci:jana
+%Igrac :jana:check:sledeci:jjana
+*%Igrac :jjana:check:sledeci:jana
+%Igrac :jana:check:sledeci:jjana
+*%Igrac :jjana:check:sledeci:jana
+%Igrac :jana:check:sledeci:jjana
+*%Igrac :jjana:check:sledeci:jana
+%Igrac :jana:check:sledeci:jjana
+Igrac:jjana:je dobio ovu ruku:karte.102.10.142,jana.41.92,jjana.133.71:%Igrac :jjana:check:sledeci:jana
+Igrac jjana je napustio igru.Igrac jana je dobio ruku.
+Igrac jana je napustio igru.
+Igrac jana se pridruzio tabli.
+Igrac jjana se pridruzio tabli.%igracNaPotezu:jana:%karte.123.92.102,jana.143.30,jjana.20.40
+%Igrac :jana:check:sledeci:jjana
+@Igrac nikolino se pridruzio tabli.
+*%Igrac :jjana:check:sledeci:jana
+%Igrac :jana:check:sledeci:jjana
+*%Igrac :jjana:check:sledeci:jana
+%Igrac :jana:check:sledeci:jjana
+*%Igrac :jjana:check:sledeci:jana
+%Igrac :jana:check:sledeci:jjana
+Igrac:jana:je dobio ovu ruku:karte.20.80.10,jana.61.52,jjana.31.43,nikolino.30.21:%Igrac :jjana:check:sledeci:jana
+%Igrac :jana:check:sledeci:jjana
+%Igrac :jjana:check:sledeci:nikolino
+*%Igrac :nikolino:check:sledeci:jana
+%Igrac :jana:check:sledeci:jjana
+Igrac :jjana:fold:sledeci:nikolino
+*%Igrac :nikolino:check:sledeci:jana
+%Igrac :jana:check:sledeci:nikolino
+*%Igrac :nikolino:check:sledeci:jana
+%Igrac :jana:check:sledeci:nikolino
+Igrac:nikolino:je dobio ovu ruku:karte.91.62.11,jana.143.82,nikolino.122.63,jjana.21.50:%Igrac :nikolino:check:sledeci:jana
+%Igrac :jana:check:sledeci:nikolino
+%Igrac :nikolino:check:sledeci:jjana
+*Igrac :jjana:fold:sledeci:jana
+Igrac :jana:fold:sledeci:nikolino
+*%Igrac :nikolino:check:sledeci:nikolino
+*%Igrac :nikolino:check:sledeci:nikolino
+Igrac:nikolino:je dobio ovu ruku:karte.91.120.102,nikolino.30.10,jjana.33.130,jana.43.140:%Igrac :nikolino:check:sledeci:nikolino
+%Igrac :nikolino:check:sledeci:jjana
+%Igrac :jjana:check:sledeci:jana
+*%Igrac :jana:check:sledeci:nikolino
+Igrac jana je napustio igru.
+Igrac nikolino je napustio igru.Igrac jjana je dobio ruku.
+Igrac jjana je napustio igru.
+Igrac jana se pridruzio tabli.
+Igrac jjana se pridruzio tabli.%igracNaPotezu:jana:%karte.133.13.70,jana.92.51,jjana.83.12
+@Igrac nikolino se pridruzio tabli.
+%Igrac :jana:check:sledeci:jana
+%Igrac :jana:check:sledeci:jjana
+*%Igrac :jjana:check:sledeci:jana
+%Igrac :jana:check:sledeci:jjana
+Igrac:nikolino:je dobio ovu ruku:karte.82.102.51,jana.10.30,jjana.143.20,nikolino.71.61:%Igrac :jjana:check:sledeci:jana
+%Igrac :jana:check:sledeci:jjana
+%Igrac :jjana:check:sledeci:nikolino
+*%Igrac :nikolino:check:sledeci:jana
+%Igrac :jana:check:sledeci:jjana
+%Igrac :jjana:check:sledeci:nikolino
+*%Igrac :nikolino:check:sledeci:jana
+%Igrac :jana:check:sledeci:jjana
+%Igrac :jjana:check:sledeci:nikolino
+*%Igrac :nikolino:check:sledeci:jana
+%Igrac :jana:check:sledeci:jjana
+%Igrac :jjana:check:sledeci:nikolino
+Igrac:jana:je dobio ovu ruku:karte.143.10.41,jana.30.123,jjana.71.92,nikolino.51.102:%Igrac :nikolino:check:sledeci:jana
+%Igrac :jana:check:sledeci:jjana
+%Igrac :jjana:check:sledeci:nikolino
+*Igrac :nikolino:fold:sledeci:jana
+%Igrac :jana:check:sledeci:jjana
+*%Igrac :jjana:check:sledeci:jana
+%Igrac :jana:check:sledeci:jjana
+*%Igrac :jjana:check:sledeci:jana
+%Igrac :jana:check:sledeci:jjana
+Igrac:jana:je dobio ovu ruku:karte.71.100.91,jana.123.143,jjana.53.23,nikolino.61.20:%Igrac :jjana:check:sledeci:jana
+%Igrac :jana:check:sledeci:jjana
+%Igrac :jjana:check:sledeci:nikolino
+Igrac jana je napustio igru.
+Igrac nikolino je napustio igru.Igrac jjana je dobio ruku.
+Igrac jjana je napustio igru.
+Igrac jana se pridruzio tabli.
+Igrac jjana se pridruzio tabli.%igracNaPotezu:jana:%karte.123.143.63,jana.133.73,jjana.21.140
+@Igrac nikolino se pridruzio tabli.
+%Igrac :jana:check:sledeci:jjana
+*%Igrac :jjana:check:sledeci:jana
+%Igrac :jana:check:sledeci:jjana
+*%Igrac :jjana:check:sledeci:jana
+%Igrac :jana:check:sledeci:jjana
+*%Igrac :jjana:check:sledeci:jana
+%Igrac :jana:check:sledeci:jjana
+Igrac:jana:je dobio ovu ruku:karte.143.71.133,jana.20.10,jjana.92.61,nikolino.102.51:%Igrac :jjana:check:sledeci:jana
+%Igrac :jana:check:sledeci:jjana
+Igrac: jana je napustio igru.:a:sledeci:jjana
+%Igrac :jjana:check:sledeci:nikolino
+*%Igrac :nikolino:check:sledeci:jjana
+%Igrac :jjana:check:sledeci:nikolino
+*%Igrac :nikolino:check:sledeci:jjana
+Igrac :jjana:fold:sledeci:nikolino
+*%Igrac :nikolino:check:sledeci:nikolino
+Igrac:jana:je dobio ovu ruku:karte.62.41.90,nikolino.71.133,jjana.123.30:%Igrac :nikolino:check:sledeci:nikolino
+%Igrac :nikolino:check:sledeci:jjana
+*%Igrac :jjana:check:sledeci:nikolino
+@Igrac jana se pridruzio tabli.
+%Igrac :nikolino:check:sledeci:jjana
+*%Igrac :jjana:check:sledeci:nikolino
+%Igrac :nikolino:check:sledeci:jjana
+*%Igrac :jjana:check:sledeci:nikolino
+%Igrac :nikolino:check:sledeci:jjana
+Igrac:nikolino:je dobio ovu ruku:karte.123.51.30,nikolino.133.61,jjana.71.40,jana.10.92:%Igrac :jjana:check:sledeci:nikolino
+%Igrac :nikolino:check:sledeci:jjana
+Igrac: jjana je napustio igru.:a:sledeci:nikolino
+%Igrac :nikolino:check:sledeci:jana
+*%Igrac :jana:check:sledeci:nikolino
+@Igrac jjana se pridruzio tabli.
+%Igrac :nikolino:check:sledeci:jana
+*%Igrac :jana:check:sledeci:nikolino
+%Igrac :nikolino:check:sledeci:jana
+*%Igrac :jana:check:sledeci:nikolino
+%Igrac :nikolino:check:sledeci:jana
+Igrac:nikolino:je dobio ovu ruku:karte.62.91.122,nikolino.30.71,jana.142.33,jjana.40.80:%Igrac :jana:check:sledeci:nikolino
+%Igrac :nikolino:check:sledeci:jana
+%Igrac :jana:check:sledeci:jjana
+*%Igrac :jjana:check:sledeci:nikolino
+Igrac: jjana je napustio igru.:aIgrac jana je dobio ruku.
+Igrac: jana je napustio igru.:a
+Igrac jana se pridruzio tabli.
+Igrac jjana se pridruzio tabli.%igracNaPotezu:jana:%karte.82.92.103,jana.102.40,jjana.10.51
+@Igrac nikolino se pridruzio tabli.
+%Igrac :jana:check:sledeci:jjana
+*%Igrac :jjana:check:sledeci:jana
+%Igrac :jana:check:sledeci:jjana
+Igrac: jjana je napustio igru.:aIgrac jana je dobio ruku.%igracNaPotezu:jana
+Igrac: jana je napustio igru.:aIgrac nikolino je dobio ruku.
+Igrac: nikolino je napustio igru.:a
+Igrac jana se pridruzio tabli.
+Igrac jjana se pridruzio tabli.%igracNaPotezu:jana:%karte.62.131.22,jana.61.92,jjana.123.20
+@Igrac nikolino se pridruzio tabli.
+%Igrac :jana:check:sledeci:jjana
+*%Igrac :jjana:check:sledeci:jana
+%Igrac :jana:check:sledeci:jjana
+:aIgrac jana je dobio ruku.%igracNaPotezu:jana
+:aIgrac jana je dobio ruku.
+:a
+Igrac jana se pridruzio tabli.
+Igrac jjana se pridruzio tabli.%igracNaPotezu:jana:%karte.82.102.52,jana.71.92,jjana.30.143
+@Igrac nikolino se pridruzio tabli.
+%Igrac :jana:check:sledeci:jjana
+*%Igrac :jjana:check:sledeci:jana
+%Igrac :jana:check:sledeci:jjana
+Igrac: jjana je napustio igru.Igrac jana je dobio ruku.%igracNaPotezu:jana
+Igrac: nikolino je napustio igru.Igrac jana je dobio ruku.
+Igrac: jana je napustio igru.
+Igrac jana se pridruzio tabli.
+Igrac jjana se pridruzio tabli.%igracNaPotezu:jana:%karte.102.123.71,jana.92.82,jjana.51.133
+@Igrac nikolino se pridruzio tabli.
+%Igrac :jana:check:sledeci:jjana
+*%Igrac :jjana:check:sledeci:jana
+%Igrac :jana:check:sledeci:jjana
+*%Igrac :jjana:check:sledeci:jana
+%Igrac :jana:check:sledeci:jjana
+Igrac: jjana je napustio igru.Igrac jana je dobio ruku.:%karte.31.130.53,jana.30.61,nikolino.20.72%igracNaPotezu:jana
+Igrac: jana je napustio igru.Igrac nikolino je dobio ruku.
+Igrac: nikolino je napustio igru.
+Igrac jana se pridruzio tabli.
+Igrac jjana se pridruzio tabli.%igracNaPotezu:jana:%karte.71.10.92,jana.82.143,jjana.133.102
+@Igrac nikolino se pridruzio tabli.
+%Igrac :jana:check:sledeci:jjana
+*%Igrac :jjana:check:sledeci:jana
+%Igrac :jana:check:sledeci:jjana
+*%Igrac :jjana:check:sledeci:jana
+%Igrac :jana:check:sledeci:jjana
+Igrac: jjana je napustio igru.Igrac jana je dobio ruku.:%igracNaPotezu:jana%karte.42.81.130,jana.41.51,nikolino.12.100
+Igrac: jana je napustio igru.Igrac nikolino je dobio ruku.
+Igrac: nikolino je napustio igru.
+Igrac jana se pridruzio tabli.
+Igrac jjana se pridruzio tabli.%igracNaPotezu:jana:%karte.82.143.73,jana.51.123,jjana.40.71
+@Igrac nikolino se pridruzio tabli.
+%Igrac :jana:check:sledeci:jjana
+*%Igrac :jjana:check:sledeci:jana
+%Igrac :jana:check:sledeci:jjana
+*%Igrac :jjana:check:sledeci:jana
+%Igrac :jana:check:sledeci:jjana
+Igrac: jjana je napustio igru.Igrac jana je dobio ruku.%igracNaPotezu:jana:%karte.41.20.30,jana.102.92,nikolino.61.10
+Igrac: jana je napustio igru.Igrac nikolino je dobio ruku.
+Igrac: nikolino je napustio igru.
+Igrac jana se pridruzio tabli.
+Igrac jjana se pridruzio tabli.%igracNaPotezu:jana:%karte.92.33.130,jana.20.102,jjana.40.82
+@Igrac nikolino se pridruzio tabli.
+%Igrac :jana:check:sledeci:jjana
+*%Igrac :jjana:check:sledeci:jana
+%Igrac :jana:check:sledeci:jjana
+*%Igrac :jjana:check:sledeci:jana
+%Igrac :jana:check:sledeci:jjana
+Igrac jjana je napustio igru.Igrac jana je dobio ruku.%igracNaPotezu:jana:%karte.123.71.41,jana.133.51,nikolino.143.61
+%Igrac :jana:check:sledeci:nikolino
+*%Igrac :nikolino:check:sledeci:jana
+%Igrac :jana:check:sledeci:nikolino
+Igrac:jjana:je dobio ovu ruku:karte.41.123.83,jana.30.133,nikolino.40.10:%Igrac :nikolino:check:sledeci:jana
+%Igrac :jana:check:sledeci:nikolino
+*%Igrac :nikolino:check:sledeci:jana
+%Igrac :jana:check:sledeci:nikolino
+*%Igrac :nikolino:check:sledeci:jana
+%Igrac :jana:check:sledeci:nikolino
+*%Igrac :nikolino:check:sledeci:jana
+%Igrac :jana:check:sledeci:nikolino
+Igrac:nikolino:je dobio ovu ruku:karte.41.30.20,jana.133.92,nikolino.102.51:%Igrac :nikolino:check:sledeci:jana
+%Igrac :jana:check:sledeci:nikolino
+*%Igrac :nikolino:check:sledeci:jana
+%Igrac :jana:check:sledeci:nikolino
+*%Igrac :nikolino:check:sledeci:jana
+%Igrac :jana:check:sledeci:nikolino
+*%Igrac :nikolino:check:sledeci:jana
+%Igrac :jana:check:sledeci:nikolino
+Igrac:jana:je dobio ovu ruku:karte.71.41.20,jana.51.102,nikolino.82.30:%Igrac :nikolino:check:sledeci:jana
+%Igrac :jana:check:sledeci:nikolino
+*%Igrac :nikolino:check:sledeci:jana
+%Igrac :jana:check:sledeci:nikolino
+*%Igrac :nikolino:check:sledeci:jana
+%Igrac :jana:check:sledeci:nikolino
+*%Igrac :nikolino:check:sledeci:jana
+%Igrac :jana:check:sledeci:nikolino
+Igrac:jana:je dobio ovu ruku:karte.131.143.123,jana.20.10,nikolino.41.73:%Igrac :nikolino:check:sledeci:jana
+Igrac jana je napustio igru.Igrac nikolino je dobio ruku.
+Igrac nikolino je napustio igru.
+Igrac jana se pridruzio tabli.
+Igrac jjana se pridruzio tabli.%igracNaPotezu:jana:%karte.73.11.10,jana.133.61,jjana.43.121
+@Igrac nikolino se pridruzio tabli.
+%Igrac :jana:check:sledeci:jjana
+*%Igrac :jjana:check:sledeci:jana
+%Igrac :jana:check:sledeci:jjana
+Igracjanaje dobio ovu ruku%igracNaPotezu:jana:%karte.71.102.41,jana.51.30,nikolino.143.123,jjana.20.92
+%Igrac :jana:check:sledeci:nikolino
+%Igrac :nikolino:check:sledeci:jjana
+*%Igrac :jjana:check:sledeci:jana
+Igrac :jana:fold:sledeci:nikolino
+Igracjjanaje dobio ovu ruku%igracNaPotezu:jjana:%karte.80.53.21,jjana.82.42,jana.141.23,nikolino.50.31
+Igrac :jjana:fold:sledeci:jana
+Igracnikolinoje dobio ovu ruku%igracNaPotezu:nikolino:%karte.90.32.60,nikolino.40.142,jjana.93.72,jana.91.62
+Igrac: jana je napustio igru.:a:sledeci:nikolino
+%Igrac :nikolino:check:sledeci:jjana
+Igrac:jana:je dobio ovu ruku:karte.70.21.40,nikolino.102.41,jjana.93.22:%Igrac :jjana:check:sledeci:nikolino
+%Igrac :nikolino:check:sledeci:jjana
+*%Igrac :jjana:check:sledeci:nikolino
+%Igrac :nikolino:check:sledeci:jjana
+Igracnikolinoje dobio ovu ruku%igracNaPotezu:nikolino:%karte.10.82.92,nikolino.61.123,jjana.133.71
+Igrac nikolino je napustio igru.Igrac jjana je dobio ruku.
+Igrac jjana je napustio igru.
+Igrac jana se pridruzio tabli.
+Igrac jjana se pridruzio tabli.%igracNaPotezu:jana:%karte.82.102.51,jana.71.143,jjana.40.10
+%Igrac :jana:check:sledeci:jjana
+*%Igrac :jjana:check:sledeci:jana
+%Igrac :jana:check:sledeci:jjana
+*%Igrac :jjana:check:sledeci:jana
+%Igrac :jana:check:sledeci:jjana
+*%Igrac :jjana:check:sledeci:jana
+%Igrac :jana:check:sledeci:jjana
+Igrac:jana:je dobio ovu ruku:karte.143.10.40,jana.20.30,jjana.123.92:%Igrac :jjana:check:sledeci:jana
+Igrac jana je napustio igru.
+Igrac jana se pridruzio tabli.
+Igrac jjana se pridruzio tabli.%igracNaPotezu:jana:%karte.82.10.143,jana.30.51,jjana.123.71
+%Igrac :jana:check:sledeci:jjana
+*%Igrac :jjana:check:sledeci:jana
+%Igrac :jana:check:sledeci:jjana
+*%Igrac :jjana:check:sledeci:jana
+%Igrac :jana:check:sledeci:jjana
+*%Igrac :jjana:check:sledeci:jana
+%Igrac :jana:check:sledeci:jjana
+Igrac:jana:je dobio ovu ruku:karte.20.51.71,jana.102.40,jjana.30.123:%Igrac :jjana:check:sledeci:jana
+Igrac jana je napustio igru.Igrac jjana je dobio ruku.
+Igrac jjana je napustio igru.
+Igrac jana se pridruzio tabli.
+Igrac jana je napustio igru.
+Igrac jana se pridruzio tabli.
+Igrac jana se pridruzio tabli.
+Igrac jjana se pridruzio tabli.%igracNaPotezu:jana:%karte.41.92.61,jana.133.20,jjana.30.143
+%Igrac :jana:check:sledeci:jjana
+*%Igrac :jjana:check:sledeci:jana
+%Igrac :jana:check:sledeci:jjana
+*%Igrac :jjana:check:sledeci:jana
+%Igrac :jana:check:sledeci:jjana
+*%Igrac :jjana:check:sledeci:jana
+%Igrac :jana:check:sledeci:jjana
+Igrac:jana:je dobio ovu ruku:karte.61.20.82,jana.92.10,jjana.51.143:%Igrac :jjana:check:sledeci:jana
+%Igrac :jana:check:sledeci:jjana
+*%Igrac :jjana:check:sledeci:jana
+%Igrac :jana:check:sledeci:jjana
+*%Igrac :jjana:check:sledeci:jana
+%Igrac :jana:check:sledeci:jjana
+*%Igrac :jjana:check:sledeci:jana
+%Igrac :jana:check:sledeci:jjana
+Igrac:jana:je dobio ovu ruku:karte.10.61.20,jana.102.123,jjana.30.133:%Igrac :jjana:check:sledeci:jana
+Igrac jana je napustio igru.Igrac jjana je dobio ruku.
+Igrac jjana je napustio igru.
+Igrac jana se pridruzio tabli.
+Igrac jjana se pridruzio tabli.%igracNaPotezu:jana:%karte.71.40.61,jana.10.143,jjana.92.133
+%Igrac :jana:check:sledeci:jjana
+*%Igrac :jjana:check:sledeci:jana
+%Igrac :jana:check:sledeci:jjana
+*%Igrac :jjana:check:sledeci:jana
+%Igrac :jana:check:sledeci:jjana
+*%Igrac :jjana:check:sledeci:jana
+%Igrac :jana:check:sledeci:jjana
+Igrac:jana:je dobio ovu ruku:karte.82.41.133,jana.10.51,jjana.92.30:%Igrac :jjana:check:sledeci:jana
+Igrac jana je napustio igru.Igrac jjana je dobio ruku.
+Igrac jjana je napustio igru.
+Igrac jana se pridruzio tabli.
+Igrac jjana se pridruzio tabli.%igracNaPotezu:jana:%karte.133.61.51,jana.102.30,jjana.82.41
+%Igrac :jana:check:sledeci:jjana
+*%Igrac :jjana:check:sledeci:jana
+%Igrac :jana:check:sledeci:jjana
+*%Igrac :jjana:check:sledeci:jana
+%Igrac :jana:check:sledeci:jjana
+*%Igrac :jjana:check:sledeci:jana
+%Igrac :jana:check:sledeci:jjana
+Igrac:jana:je dobio ovu ruku:karte.71.51.132,jana.92.61,jjana.102.143:%Igrac :jjana:check:sledeci:jana
+Igrac jana je napustio igru.Igrac jjana je dobio ruku.
+Igrac jjana je napustio igru.
+Igrac jana se pridruzio tabli.
+Igrac jana je napustio igru.
