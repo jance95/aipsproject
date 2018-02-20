@@ -248,5 +248,19 @@ namespace StoServer
             return true;
         }
 
+        public void UpisiPotez(string potez,string sto)
+        {
+            ISession s = DataLayer.GetSession();
+            IQuery q = s.CreateQuery("from Sto sto  where sto.id=:idst");
+            q.SetInt32("idst", Int32.Parse(sto));
+            Sto i = q.UniqueResult<Sto>();
+            Potez p = new Potez();
+            p.potez = potez;
+            p.timestamp = DateTime.Now;
+            p.sto = i;
+            s.Save(p);
+            s.Flush();
+            s.Close();
+        }
     }
 }

@@ -15,6 +15,46 @@ c:\users\nikola\documents\visual studio 2015\Projects\StoServer\StoServer\bin\De
 c:\users\nikola\documents\visual studio 2015\Projects\StoServer\StoServer\bin\Debug\RabbitMQ.Client.xml
 c:\users\nikola\documents\visual studio 2015\Projects\StoServer\StoServer\bin\Debug\NHibernate.dll
 c:\users\nikola\documents\visual studio 2015\Projects\StoServer\StoServer\bin\Debug\NHibernate.xml
-C:\Users\Jana\Desktop\vestacka\bozic\bozic\StoServer\StoServer\bin\Debug\StoServer.exe.config
-C:\Users\Jana\Desktop\vestacka\bozic\bozic\StoServer\StoServer\obj\Debug\StoServer.exe
-C:\Users\Jana\Desktop\vestacka\bozic\bozic\StoServer\StoServer\obj\Debug\StoServer.pdb
+C:\Users\Nikola\Desktop\workspace\bozic\StoServer\StoServer\bin\Debug\StoServer.exe.config
+C:\Users\Nikola\Desktop\workspace\bozic\StoServer\StoServer\obj\Debug\StoServer.exe
+C:\Users\Nikola\Desktop\workspace\bozic\StoServer\StoServer\obj\Debug\StoServer.pdb
+C:\Users\Nikola\Desktop\workspace\bozic\StoServer\StoServer\bin\Debug\StoServer.exe
+C:\Users\Nikola\Desktop\workspace\bozic\StoServer\StoServer\bin\Debug\StoServer.pdb
+C:\Users\Nikola\Desktop\workspace\bozic\StoServer\StoServer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Nikola\Desktop\workspace\bozic\StoServer\StoServer\bin\Debug\Oracle.DataAccess.dll
+C:\Users\Nikola\Desktop\workspace\bozic\StoServer\StoServer\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Nikola\Desktop\workspace\bozic\StoServer\StoServer\bin\Debug\FluentNHibernate.pdb
+C:\Users\Nikola\Desktop\workspace\bozic\StoServer\StoServer\bin\Debug\FluentNHibernate.xml
+C:\Users\Nikola\Desktop\workspace\bozic\StoServer\StoServer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Nikola\Desktop\workspace\bozic\StoServer\StoServer\bin\Debug\NHibernate.xml
+C:\Users\Nikola\Desktop\workspace\bozic\StoServer\StoServer\bin\Debug\RabbitMQ.Client.xml
+C:\Users\Nikola\Desktop\workspace\bozic\StoServer\StoServer\obj\Debug\StoServer.csprojResolveAssemblyReference.cache
+C:\Users\Nikola\Desktop\StoServer\StoServer\bin\Debug\StoServer.exe.config
+C:\Users\Nikola\Desktop\StoServer\StoServer\obj\Debug\StoServer.exe
+C:\Users\Nikola\Desktop\StoServer\StoServer\obj\Debug\StoServer.pdb
+C:\Users\Nikola\Desktop\StoServer\StoServer\obj\Debug\StoServer.csprojResolveAssemblyReference.cache
+C:\Users\Nikola\Desktop\StoServer\StoServer\bin\Debug\StoServer.exe
+C:\Users\Nikola\Desktop\StoServer\StoServer\bin\Debug\StoServer.pdb
+C:\Users\Nikola\Desktop\StoServer\StoServer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Nikola\Desktop\StoServer\StoServer\bin\Debug\Oracle.DataAccess.dll
+C:\Users\Nikola\Desktop\StoServer\StoServer\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Nikola\Desktop\StoServer\StoServer\bin\Debug\FluentNHibernate.pdb
+C:\Users\Nikola\Desktop\StoServer\StoServer\bin\Debug\FluentNHibernate.xml
+C:\Users\Nikola\Desktop\StoServer\StoServer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Nikola\Desktop\StoServer\StoServer\bin\Debug\NHibernate.xml
+C:\Users\Nikola\Desktop\StoServer\StoServer\bin\Debug\RabbitMQ.Client.xml
+C:\Users\Jana\Desktop\AIPS odbrana\StoServerNajVerzija\StoServer\StoServer\bin\Debug\StoServer.exe.config
+C:\Users\Jana\Desktop\AIPS odbrana\StoServerNajVerzija\StoServer\StoServer\obj\Debug\StoServer.exe
+C:\Users\Jana\Desktop\AIPS odbrana\StoServerNajVerzija\StoServer\StoServer\obj\Debug\StoServer.pdb
+C:\Users\Jana\Desktop\AIPS odbrana\StoServerNajVerzija\StoServer\StoServer\bin\Debug\StoServer.exe
+C:\Users\Jana\Desktop\AIPS odbrana\StoServerNajVerzija\StoServer\StoServer\bin\Debug\StoServer.pdb
+C:\Users\Jana\Desktop\AIPS odbrana\StoServerNajVerzija\StoServer\StoServer\bin\Debug\FluentNHibernate.dll
+C:\Users\Jana\Desktop\AIPS odbrana\StoServerNajVerzija\StoServer\StoServer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Jana\Desktop\AIPS odbrana\StoServerNajVerzija\StoServer\StoServer\bin\Debug\NHibernate.dll
+C:\Users\Jana\Desktop\AIPS odbrana\StoServerNajVerzija\StoServer\StoServer\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Jana\Desktop\AIPS odbrana\StoServerNajVerzija\StoServer\StoServer\bin\Debug\FluentNHibernate.pdb
+C:\Users\Jana\Desktop\AIPS odbrana\StoServerNajVerzija\StoServer\StoServer\bin\Debug\FluentNHibernate.xml
+C:\Users\Jana\Desktop\AIPS odbrana\StoServerNajVerzija\StoServer\StoServer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Jana\Desktop\AIPS odbrana\StoServerNajVerzija\StoServer\StoServer\bin\Debug\NHibernate.xml
+C:\Users\Jana\Desktop\AIPS odbrana\StoServerNajVerzija\StoServer\StoServer\bin\Debug\RabbitMQ.Client.xml
+C:\Users\Jana\Desktop\AIPS odbrana\StoServerNajVerzija\StoServer\StoServer\obj\Debug\StoServer.csprojResolveAssemblyReference.cache

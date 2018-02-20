@@ -19,5 +19,6 @@ namespace StoServer
         void UpdateSto(Sto x);
         void updateIgrac(Igrac i);
         int vratiPoene(int x=1);
+        void UpisiPotez(string potez,string sto);
     }
 }

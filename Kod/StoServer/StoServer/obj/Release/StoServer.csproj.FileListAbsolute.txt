@@ -15,3 +15,17 @@ c:\users\nikola\documents\visual studio 2015\Projects\StoServer\StoServer\bin\Re
 c:\users\nikola\documents\visual studio 2015\Projects\StoServer\StoServer\bin\Release\RabbitMQ.Client.xml
 c:\users\nikola\documents\visual studio 2015\Projects\StoServer\StoServer\obj\Release\StoServer.exe
 c:\users\nikola\documents\visual studio 2015\Projects\StoServer\StoServer\obj\Release\StoServer.pdb
+C:\Users\Nikola\Desktop\workspace\bozic\StoServer\StoServer\bin\Release\StoServer.exe.config
+C:\Users\Nikola\Desktop\workspace\bozic\StoServer\StoServer\bin\Release\StoServer.exe
+C:\Users\Nikola\Desktop\workspace\bozic\StoServer\StoServer\bin\Release\StoServer.pdb
+C:\Users\Nikola\Desktop\workspace\bozic\StoServer\StoServer\bin\Release\Newtonsoft.Json.dll
+C:\Users\Nikola\Desktop\workspace\bozic\StoServer\StoServer\bin\Release\Oracle.DataAccess.dll
+C:\Users\Nikola\Desktop\workspace\bozic\StoServer\StoServer\bin\Release\Oracle.ManagedDataAccess.dll
+C:\Users\Nikola\Desktop\workspace\bozic\StoServer\StoServer\bin\Release\FluentNHibernate.pdb
+C:\Users\Nikola\Desktop\workspace\bozic\StoServer\StoServer\bin\Release\FluentNHibernate.xml
+C:\Users\Nikola\Desktop\workspace\bozic\StoServer\StoServer\bin\Release\Newtonsoft.Json.xml
+C:\Users\Nikola\Desktop\workspace\bozic\StoServer\StoServer\bin\Release\NHibernate.xml
+C:\Users\Nikola\Desktop\workspace\bozic\StoServer\StoServer\bin\Release\RabbitMQ.Client.xml
+C:\Users\Nikola\Desktop\workspace\bozic\StoServer\StoServer\obj\Release\StoServer.csprojResolveAssemblyReference.cache
+C:\Users\Nikola\Desktop\workspace\bozic\StoServer\StoServer\obj\Release\StoServer.exe
+C:\Users\Nikola\Desktop\workspace\bozic\StoServer\StoServer\obj\Release\StoServer.pdb
